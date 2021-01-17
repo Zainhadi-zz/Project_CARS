@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ margin:0;
+   padding:0;}
+a{
+text-decoration:none;
+color:#333;	
+	}
+.Mainrapper{
+	
+	background:url(Slice/bg.gif);}	
+.WorkingArea{
+	width:1000px;
+    margin:0 auto;
+    font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size:12px;	
+	height:auto;
+	background:#FFF;}   
+.Header{
+	height:120px;
+	}	   
+.Logo{ padding:45px 0px 0px 0px;
+       width:20px;
+	   
+	   float:left;
+       }
+.logoline{
+	padding:0 0 0 60px;
+	width:0px;
+	float:left}
+.Navi{ 
+    height:110px;
+	text-align:right;
+	width:600px;
+	float:right;
+	margin:0 70px; }
+
+.Clear{ clear:both}
+
+.Links li{
+display:inline;	
+line-height:125px;	
+	}
+	
+.Links li a{
+color:#333;
+font-weight:bold;
+font-size:13px;
+padding:80px 10px;
+width:120px;
+height:100px;	
+	}
+li a:hover{
+	background:#ec3343;
+		
+	}
+.Content{
+          height:960px;}	
+.Upperline{ margin:20px 0 0 0;
+			}
+.Upperbox{ height:330px;
+           
+		   }
+.Midbox{   height:200px;
+		   margin:20px 0 0 0;
+		   }	
+.Lowerbox{ height:300px;
+           margin:20px 0 0 0;
+		   }
+.box1{     width:444px;
+           height:310px;
+		   
+		   margin:20px 0 0 20px;
+		   float:left;
+		   }		   
+.box2{     float:left;
+           width:513px;
+		   height:310px;
+		   margin:21px 5px 0 5px;
+		   }		   
+.box2img1{ width:159px;
+           height:140px;
+		   float:left;
+		   ;}	
+.box2img2{ width:159px;
+           height:140px;
+		   float:left;
+		   
+		   margin:0 0 0 14px;}
+.box2img3{ width:159px;
+           height:140px;
+		   float:left;
+		   
+		   margin:0 0 0 14px;
+		   }		   
+.box2img4{ width:159px;
+           height:102px;
+		   float:left;
+		   
+		   margin:12px 0 0 0;}	
+.box2img5{ width:159px;
+           height:102px;
+		   float:left;
+		   
+		   margin:12px 0 0 14px;}
+.box2img6{ width:159px;
+           height:102px;
+		   float:left;
+		   
+		   margin:12px 0 0 14px;}
+	
+
+.midbox1{  float:left;
+           width:460px;
+		   height:190px;
+
+		   margin:5px 0 10px 30px;}
+.midbox2{  float:left;
+           width:460px;
+		   height:190px;
+		   margin:5px 0 10px 10px;}
+	   
+.midboxpara1{margin:10px 0 0 0;
+             color:#666;
+			 }		   
+.midboxpara2{margin:10px 0 0 0;
+             color:#666;
+			 }	   			   
+.galleryheading{
+	       margin:20px 0 0 5px;}
+.gallerybox{
+	       margin:10px 0 0 20px;
+		   height:235px;
+		   width:960px}	
+.Footer{ height:40px;
+          
+         }
+
+.Madeby{   float:right;
+           margin:10px 38px 0 0;
+		   font-style:italic;
+		   font-weight:lighter;}
+.box1parapadding{
+	       margin:5px 0 0 0;}
+.box2parapadding{ margin:2px 0 0 0;}
+.galleryparapadding{ margin:5px 0 0 0;}
+  
